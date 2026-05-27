@@ -1,0 +1,30 @@
+FILES AND FOLDERS TO COPY TO YOUR LOCAL FRNDS-X FOLDER:
+
+ESSENTIAL FILES (must copy):
+✅ package.json
+✅ pnpm-lock.yaml
+✅ vercel.json
+✅ vite.config.ts
+✅ postcss.config.mjs
+✅ .npmrc
+✅ pnpm-workspace.yaml
+
+ESSENTIAL FOLDERS (must copy):
+✅ src/  (entire folder with all subfolders)
+
+OPTIONAL FILES:
+- DEPLOY_NOW.md
+- SHARE_INSTRUCTIONS.md
+- ATTRIBUTIONS.md
+
+WHERE TO FIND YOUR LOCAL FOLDER:
+On your Mac, it's at:
+/Users/vijaysinghrasaputrauk/frnds-x/
+
+NEXT STEPS AFTER COPYING:
+1. Copy all files above into the local frnds-x folder
+2. Open GitHub Desktop
+3. You'll see all the files listed
+4. Click "Commit to main"
+5. Click "Push origin"
+6. Done!
